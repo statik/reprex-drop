@@ -9,4 +9,10 @@ revealjs-plugins:
 
 # This is a title
 
+This is a quarto revealjs presentation that has the `quarto-drop` extension enabled.
+
+Press the backtick `` ` `` key to open the pyodide console. Notice that
+the `pyodide` engine doesn't finish downloading. In the chrome developer tools,
+you can see an error in the console that says `wasm instantiation failed!`
+
 # This is another one
