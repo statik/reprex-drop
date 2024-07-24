@@ -1,0 +1,12 @@
+---
+format:
+  revealjs:
+    drop:
+      engine: pyodide
+revealjs-plugins:
+  - drop
+---
+
+# This is a title
+
+# This is another one
